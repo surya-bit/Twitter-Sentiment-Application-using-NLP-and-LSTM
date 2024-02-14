@@ -24,7 +24,7 @@ I have developed and experimented with four models for sentiment analysis on thi
    * Balanced the dataset by undersampling higher instances and oversampling lower instances.
    * Achieved a more balanced dataset but lacked effectiveness in real-world scenarios.
      
-4. LSTM Model (movmi-lstm.ipynb):
+4. LSTM Model (movmi_lstm.ipynb):
    * Implemented an LSTM model capable of processing larger input sequences.
    * Utilized tokenization and built a simple LSTM network.
    * Achieved a training accuracy of 93.9% and a testing accuracy of 93.8%.
