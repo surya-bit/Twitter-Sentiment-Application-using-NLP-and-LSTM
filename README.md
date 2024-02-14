@@ -62,9 +62,8 @@ numpy, pandas, flask , flask_cors , keras , sklearn , python3, node , npm .
 
 ## Here are few example cases the model has been tested on ##
 
-<img width="790" alt="joy" src="https://github.com/surya-bit/Twitter-Sentiment-Analysis-Using-LSTM/assets/61753483/aac08081-6ff0-45f9-ba91-1d543dfe07e2">
+<img width="798" alt="fear" src="https://github.com/surya-bit/Twitter-Sentiment-Application-using-NLP-and-LSTM/assets/61753483/dfe33f96-f4b7-4f9b-9a76-9a48774b91f3">
 
-<img width="810" alt="anger" src="https://github.com/surya-bit/Twitter-Sentiment-Analysis-Using-LSTM/assets/61753483/536c622b-ffcc-453d-825e-0ffb4cd4ce67">
+<img width="790" alt="joy" src="https://github.com/surya-bit/Twitter-Sentiment-Application-using-NLP-and-LSTM/assets/61753483/13fc9ab6-b306-4a86-ab50-7f3969ef1e2a">
 
-<img width="798" alt="fear" src="https://github.com/surya-bit/Twitter-Sentiment-Analysis-Using-LSTM/assets/61753483/056b6fbf-9b86-47cc-b3bf-1d324f546b09">
-
+<img width="117" alt="pic" src="https://github.com/surya-bit/Twitter-Sentiment-Application-using-NLP-and-LSTM/assets/61753483/c9db768e-9a26-437c-ba7e-5440391665ee">
