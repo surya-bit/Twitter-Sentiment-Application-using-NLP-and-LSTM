@@ -28,12 +28,12 @@ I have developed and experimented with four models for sentiment analysis on thi
    * Implemented an LSTM model capable of processing larger input sequences.
    * Utilized tokenization and built a simple LSTM network.
    * Achieved a training accuracy of 93.9% and a testing accuracy of 93.8%.
-   * Saved the LSTM model as final_model.pkl for further use.
+   * Saved the LSTM model as final_model.h5 for further use.
 
 ## Building Application ##
 
 1. app.py
-   * Import all the necessary libraries needed.The installation libraries are given below.
+   * Import all the necessary libraries needed. The installation libraries are given below.
    * Initialize the flask application.
    * Load the final_model.h5 and the dataset
    * Define a single POST route ('/') to handle incoming search requests. The search function is executed when a POST request is made to the root endpoint ('/').
