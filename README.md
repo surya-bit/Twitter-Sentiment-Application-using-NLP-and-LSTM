@@ -66,3 +66,5 @@ numpy, pandas, flask , flask_cors , keras , sklearn , python3, node , npm .
 
 <img width="790" alt="joy" src="https://github.com/surya-bit/Twitter-Sentiment-Application-using-NLP-and-LSTM/assets/61753483/13fc9ab6-b306-4a86-ab50-7f3969ef1e2a">
 
+<img width="810" alt="anger" src="https://github.com/surya-bit/Twitter-Sentiment-Application-using-NLP-and-LSTM/assets/61753483/8bfb6146-8c89-49c0-bc1c-859ff54006fc">
+
