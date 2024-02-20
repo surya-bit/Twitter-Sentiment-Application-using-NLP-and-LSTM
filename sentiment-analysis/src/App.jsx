@@ -49,6 +49,7 @@ function App() {
         await  axios.post(apiUrl,postData)
              .then((response) => setResults(Number(response.data)))
              .then((response) => console.log(response.data))
+             .then(setLoading(false))
              .catch((error) => console.error(error) )
      }
      
